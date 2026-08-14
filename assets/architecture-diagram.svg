@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090813" />
+      <stop offset="50%" stop-color="#120e24" />
+      <stop offset="100%" stop-color="#07060f" />
+    </linearGradient>
+
+    <linearGradient id="neonPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#6366f1" />
+    </linearGradient>
+
+    <linearGradient id="neonBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+
+    <linearGradient id="neonEmerald" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+
+    <linearGradient id="nodeGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2e1065" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.9" />
+    </linearGradient>
+
+    <linearGradient id="nodeGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.9" />
+    </linearGradient>
+
+    <linearGradient id="nodeGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#083344" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.9" />
+    </linearGradient>
+
+    <filter id="nodeGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .hdr { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    .label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 1px; }
+  </style>
+
+  <!-- Background -->
+  <rect width="1200" height="480" rx="16" fill="url(#bgGrad2)" />
+  <rect width="1200" height="480" rx="16" fill="none" stroke="#4338ca" stroke-width="1.5" stroke-opacity="0.3" />
+
+  <!-- Title Section -->
+  <g transform="translate(60, 45)">
+    <text class="label" fill="#a78bfa" x="0" y="0">SYSTEM TOPOLOGY &amp; COGNITIVE PIPELINE</text>
+    <text class="hdr" fill="#ffffff" x="0" y="30" font-size="24">BABYLON.IA × GEIST MULTI-TIER ARCHITECTURE</text>
+  </g>
+
+  <!-- Flow Connectors (Lines with Pulses) -->
+  <path d="M 285 240 L 335 240" stroke="#6366f1" stroke-width="2" stroke-dasharray="4 4" />
+  <path d="M 570 240 L 620 240" stroke="#38bdf8" stroke-width="2" stroke-dasharray="4 4" />
+  <path d="M 855 240 L 905 240" stroke="#34d399" stroke-width="2" stroke-dasharray="4 4" />
+
+  <!-- Column 1: Dialectical Foundation -->
+  <g transform="translate(60, 110)">
+    <rect width="225" height="320" rx="12" fill="url(#nodeGrad1)" stroke="#8b5cf6" stroke-width="1.5" />
+    <rect x="15" y="16" width="6" height="24" rx="3" fill="#a855f7" />
+    <text class="label" fill="#c084fc" x="30" y="32">LAYER 01</text>
+    <text class="hdr" fill="#ffffff" x="15" y="65" font-size="16">GEIST CORE</text>
+    
+    <rect x="15" y="80" width="195" height="1" fill="#4c1d95" />
+    
+    <g transform="translate(15, 95)">
+      <text class="mono" fill="#e2e8f0" font-size="12" font-weight="700">Dialectical Engine</text>
+      <text class="mono" fill="#94a3b8" y="20" font-size="10">• Thesis / Anti / Synthesis</text>
+      <text class="mono" fill="#94a3b8" y="35" font-size="10">• Empirical Optimization</text>
+    </g>
+
+    <g transform="translate(15, 160)">
+      <text class="mono" fill="#e2e8f0" font-size="12" font-weight="700">Asimovian Psychohistory</text>
+      <text class="mono" fill="#94a3b8" y="20" font-size="10">• Zeroth Law Compliance</text>
+      <text class="mono" fill="#94a3b8" y="35" font-size="10">• System Integrity First</text>
+    </g>
+
+    <g transform="translate(15, 225)">
+      <text class="mono" fill="#e2e8f0" font-size="12" font-weight="700">Memory &amp; Vector Base</text>
+      <text class="mono" fill="#94a3b8" y="20" font-size="10">• Non-fragmented Graph</text>
+      <text class="mono" fill="#38bdf8" y="35" font-size="10">Active State: Validated</text>
+    </g>
+  </g>
+
+  <!-- Column 2: Multimodal Model Orchestration -->
+  <g transform="translate(335, 110)">
+    <rect width="235" height="320" rx="12" fill="url(#nodeGrad2)" stroke="#6366f1" stroke-width="1.5" />
+    <rect x="15" y="16" width="6" height="24" rx="3" fill="#6366f1" />
+    <text class="label" fill="#818cf8" x="30" y="32">LAYER 02</text>
+    <text class="hdr" fill="#ffffff" x="15" y="65" font-size="16">MULTIMODAL MESH</text>
+    
+    <rect x="15" y="80" width="205" height="1" fill="#312e81" />
+
+    <g transform="translate(15, 95)">
+      <rect width="205" height="38" rx="6" fill="#1e1b4b" stroke="#4338ca" stroke-width="1"/>
+      <text class="mono" fill="#c7d2fe" x="12" y="24" font-size="11" font-weight="700">Gemini 1.5 / 3.7 Pro/Flash</text>
+    </g>
+
+    <g transform="translate(15, 142)">
+      <rect width="205" height="38" rx="6" fill="#1e1b4b" stroke="#4338ca" stroke-width="1"/>
+      <text class="mono" fill="#c7d2fe" x="12" y="24" font-size="11" font-weight="700">Claude 3.5 Sonnet / Opus</text>
+    </g>
+
+    <g transform="translate(15, 190)">
+      <rect width="205" height="38" rx="6" fill="#1e1b4b" stroke="#4338ca" stroke-width="1"/>
+      <text class="mono" fill="#c7d2fe" x="12" y="24" font-size="11" font-weight="700">DeepSeek-V3 / R1 Reasoner</text>
+    </g>
+
+    <g transform="translate(15, 238)">
+      <rect width="205" height="38" rx="6" fill="#1e1b4b" stroke="#4338ca" stroke-width="1"/>
+      <text class="mono" fill="#38bdf8" x="12" y="24" font-size="11" font-weight="700">OpenAI GPT-4o &amp; Local Gemma</text>
+    </g>
+  </g>
+
+  <!-- Column 3: Autonomous Agents & Automation -->
+  <g transform="translate(620, 110)">
+    <rect width="235" height="320" rx="12" fill="url(#nodeGrad3)" stroke="#0ea5e9" stroke-width="1.5" />
+    <rect x="15" y="16" width="6" height="24" rx="3" fill="#0ea5e9" />
+    <text class="label" fill="#38bdf8" x="30" y="32">LAYER 03</text>
+    <text class="hdr" fill="#ffffff" x="15" y="65" font-size="16">SWARM WORKFORCE</text>
+    
+    <rect x="15" y="80" width="205" height="1" fill="#164e63" />
+
+    <g transform="translate(15, 95)">
+      <text class="mono" fill="#e2e8f0" font-size="12" font-weight="700">BABYLON-TRADING</text>
+      <text class="mono" fill="#94a3b8" y="18" font-size="10">Binance Futures Optimizer</text>
+    </g>
+
+    <g transform="translate(15, 142)">
+      <text class="mono" fill="#e2e8f0" font-size="12" font-weight="700">BABYLON-COMMUNITY</text>
+      <text class="mono" fill="#94a3b8" y="18" font-size="10">VAREGO + Puppeteer Stealth</text>
+    </g>
+
+    <g transform="translate(15, 190)">
+      <text class="mono" fill="#e2e8f0" font-size="12" font-weight="700">BABYLON-INVENTORY</text>
+      <text class="mono" fill="#94a3b8" y="18" font-size="10">Predictive Global Logistics</text>
+    </g>
+
+    <g transform="translate(15, 238)">
+      <text class="mono" fill="#e2e8f0" font-size="12" font-weight="700">FINANCE &amp; OPENCLAW</text>
+      <text class="mono" fill="#38bdf8" y="18" font-size="10">Multi-Channel WhatsApp Bots</text>
+    </g>
+  </g>
+
+  <!-- Column 4: Production Solutions & Client Impact -->
+  <g transform="translate(905, 110)">
+    <rect width="235" height="320" rx="12" fill="url(#nodeGrad2)" stroke="#10b981" stroke-width="1.5" />
+    <rect x="15" y="16" width="6" height="24" rx="3" fill="#10b981" />
+    <text class="label" fill="#34d399" x="30" y="32">LAYER 04</text>
+    <text class="hdr" fill="#ffffff" x="15" y="65" font-size="16">ENTERPRISE DEPLOY</text>
+    
+    <rect x="15" y="80" width="205" height="1" fill="#064e3b" />
+
+    <g transform="translate(15, 95)">
+      <text class="mono" fill="#e2e8f0" font-size="12" font-weight="700">AUDITOR.IA (E14)</text>
+      <text class="mono" fill="#94a3b8" y="18" font-size="10">Electoral &amp; Math Forensic AI</text>
+    </g>
+
+    <g transform="translate(15, 142)">
+      <text class="mono" fill="#e2e8f0" font-size="12" font-weight="700">ACTAGEN ENGINE</text>
+      <text class="mono" fill="#94a3b8" y="18" font-size="10">Ruth-Compliant Legal Docs</text>
+    </g>
+
+    <g transform="translate(15, 190)">
+      <text class="mono" fill="#e2e8f0" font-size="12" font-weight="700">AETHER &amp; DRESSYOURSELF</text>
+      <text class="mono" fill="#94a3b8" y="18" font-size="10">Cross-Platform iOS/Android/PC</text>
+    </g>
+
+    <g transform="translate(15, 238)">
+      <text class="mono" fill="#34d399" font-size="12" font-weight="700">BABYLONIAS.COM</text>
+      <text class="mono" fill="#38bdf8" y="18" font-size="10">Enterprise Portal &amp; Sourcing</text>
+    </g>
+  </g>
+</svg>
