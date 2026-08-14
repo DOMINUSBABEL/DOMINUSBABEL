@@ -43,7 +43,7 @@
   <p align="center">
     <a href="#-core-enterprise-mission--value-proposition">Enterprise Mission</a> •
     <a href="#-startup-creed--manifesto">Startup Creed</a> •
-    <a href="#-how-agy--gemini-cli-engineered-babylonia">AGY &amp; Gemini CLI Catalyst</a> •
+    <a href="#-startup-showcase--architectural-milestones-agy--gemini-cli-chronicles">Startup Milestones</a> •
     <a href="#-the-one-year-engineering-chronicle-late-2025--august-2026">1-Year Chronicle</a> •
     <a href="#-repository-genealogy--ecosystem-impact-matrix">Repository Genealogy</a> •
     <a href="#-geist-dialectical-architecture">Geist Architecture</a> •
@@ -172,36 +172,62 @@ At **BABYLON.IA**, we do not build software to replicate existing templates or p
 
 ---
 
-## ⚡ How AGY & Gemini CLI Engineered BABYLON.IA
+## 🔬 Startup Showcase: Architectural Milestones (AGY & Gemini CLI Chronicles)
 
-The birth and rapid expansion of the **BABYLON.IA** ecosystem was catalyzed by high-order agentic toolchains: **AGY (Antigravity CLI)** and **Gemini CLI**.
+<div align="center">
+  <img src="./assets/startup-showcase-banner.svg" alt="Startup Labs & Foundational Milestones" width="100%" />
+</div>
+
+<br />
+
+The journey of **BABYLON.IA** represents a radical departure from traditional software development. By pairing human systems engineering with **Antigravity CLI (AGY)** and **Gemini CLI**, the startup rapidly evolved through fundamental architectural milestones that now form our proprietary technological moats:
 
 ```
-  ┌───────────────────────────────────────────────────────────────────────────────────┐
-  │                         THE AGENTIC DEVELOPMENT FLYWHEEL                          │
-  ├───────────────────────────────────────────────────────────────────────────────────┤
-  │                                                                                   │
-  │   [ Architectural Thesis ]                                                        │
-  │              │                                                                    │
-  │              ▼                                                                    │
-  │   ┌─────────────────────┐       AGY Multi-Agent Dispatch      ┌────────────────┐  │
-  │   │   GEMINI CLI / AGY  ├────────────────────────────────────►│  Subagents &   │  │
-  │   │  Cognitive Engine   │◄────────────────────────────────────┤  Verification  │  │
-  │   └──────────┬──────────┘       Deterministic AST Validation  └────────────────┘  │
-  │              │                                                                    │
-  │              ▼                                                                    │
-  │   [ Production Synthesis ] ──► Deploy to BABYLON.IA Fleet (66+ Active Repos)      │
-  │                                                                                   │
-  └───────────────────────────────────────────────────────────────────────────────────┘
+  ┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │                           THE BABYLON.IA STARTUP INNOVATION TIMELINE                            │
+  ├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │                                                                                                 │
+  │  [ CLI Proto-Labs ]        [ Geist Kernel ]         [ Hermes Omnichannel ]    [ Global Sourcing]│
+  │  Gemini CLI Sessions   ──► Hegelian Memory Loops ──► Redis Pub/Sub Mesh   ──► Beijing Hub & SCM │
+  │  (OSINT & Scrapers)        (Asimov Psychohistory)    (WhatsApp/WeChat/Disc)    (Global Enterprise│
+  │                                                                                                 │
+  │  [ Forensics OCR ]         [ SOTA 3D Vision ]       [ Ruth Legal Engine ]     [ Swarm Fleets ]  │
+  │  E14-Auditor Multimodel──► On-Device PBR Shaders ──► Automated NTC Actas  ──► Binance & Social  │
+  │  (Vision Consensus)        (15MB Ultralight APK)     (Excel Matrix Sync)       (24/7 Autonomy)  │
+  │                                                                                                 │
+  └─────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### The Catalytic Drivers:
-1. **From Manual Coding to Dialectical Pair-Architecting:**
-   By leveraging **AGY** sidecars, custom skills, and **Gemini CLI** multimodal pipelines, architecture moved from isolated scripting to dialectical synthesis. Systems like [`E14-AUDITOR`](https://github.com/DOMINUSBABEL/E14-AUDITOR) and [`ACTAGEN`](https://github.com/DOMINUSBABEL/ACTAGEN) were conceptualized, validated against complex legal/electoral constraints, and compiled into production in record time.
-2. **Deterministic Validation & Empirical Memory (Geist Synthesis):**
-   Every bug solved, edge case bypassed, or architectural pattern proven across our 66+ repositories was iteratively analyzed and integrated back into our persistent cognitive core (`geist.md`). This prevented memory fragmentation and gave the entire agent fleet an compounding knowledge curve.
-3. **Multi-Model Consensus & Vision Pipelines:**
-   AGY and Gemini CLI enabled seamless routing across **Gemini 1.5/3.7 Pro/Flash, Claude 3.5 Sonnet, GPT-4o, and DeepSeek-V3/R1**, allowing BABYLON.IA to build high-stakes forensic OCR systems that cross-verify document authenticity with mathematical precision.
+### 1. 🧠 The Geist Hegelian-Asimovian Kernel (`geist.md`)
+* **The Breakthrough:** Autonomous agents typically suffer from memory fragmentation and hallucination loops when operating across complex multi-turn workflows.
+* **The Solution:** We formulated the **Geist Architecture**, grounded in G.W.F. Hegel's dialectic (*Tesis $\to$ Antítesis $\to$ Síntesis*) and Isaac Asimov's Psychohistorical axioms. Validated heuristics and empirical bug resolutions are permanently crystallized into system memory (`geist.md`, `subgeist_fenomenologia.md`, `subgeist_psicohistoria.md`), creating a compounding intelligence curve across all fleet subagents.
+
+### 2. ⚡ The Hermes Omnichannel Redis Pub/Sub Mesh (`babylonia_hermes_plan.md`)
+* **The Breakthrough:** Traditional AI bots directly couple chat interfaces with LLM inference, causing thread blocking, high latency, and dropped sessions during onboarding.
+* **The Solution:** We designed and deployed the **Hermes Architecture**, a Redis Pub/Sub message broker that cleanly decouples conversational ingestion (`babylon:inbound`) from multimodal AI processing and outbound message delivery (`babylon:outbound`). Enables unified real-time multi-agent routing across **WhatsApp Cloud API, WeChat (Wechaty for Chinese logistics), Discord, Telegram, and WebSockets** with interactive developer TUI consoles (`blessed-contrib`).
+
+### 3. 🛡️ Auditor.IA: Multimodal Electoral Forensic AI (`E14-AUDITOR`)
+* **The Breakthrough:** Large-scale electoral verification requires auditing tens of thousands of handwritten, low-resolution ballot forms (E-14) during tight statutory legal deadlines.
+* **The Solution:** We created a multimodal vision consensus engine utilizing **Gemini 1.5/3.7 Pro, Claude 3.5 Sonnet, GPT-4o, DeepSeek-V3/R1, and Local Gemma**. The system verifies table-level arithmetic consistency, detects candidate tally alterations, and automatically drafts formatted, court-ready legal challenges (*impugnaciones*) in under 15 seconds.
+
+### 4. ⚖️ The "Ruth Compliant" Institutional LegalTech Engine (`ACTAGEN`)
+* **The Breakthrough:** Enterprise board minutes and institutional public acts demand zero typographic deviations, specific statutory margins, and exact synchronization with legal tracking registries.
+* **The Solution:** Formulated the *Ruth Compliant* engine in TypeScript, automating docx/xml generation with exact NTC margins (Top 5cm, Left 3.5cm, Right 3cm, Bottom 2.5cm), Arial 12pt typography, reactive cover pages, 3-column headers, and live synchronization with corporate tracking Excel matrices to *En Firma (En F)* status.
+
+### 5. 🎨 SOTA 3D Cloth Physics & On-Device Vision (`DressYourself` / `sota_plan.md`)
+* **The Breakthrough:** Cloud-based diffusion and 3D fashion models incur massive cloud compute bills and high latency on mobile devices.
+* **The Solution:** We engineered an on-device hybrid WebGL/Three.js pipeline using `MeshPhysicalMaterial`, generating bump/normal maps on-the-fly from 2D user photos in device RAM. This achieved dynamic cloth illumination and realistic drape while keeping the native APK under **15MB** without cloud GPU dependencies.
+
+### 6. 🌏 Transcontinental Supply & Sourcing Bridge (Beijing Hub)
+* **The Breakthrough:** Bridging Western software development with direct Asian manufacturing and global logistics.
+* **The Solution:** We established the **BABYLON.IA Beijing Hub in China**, pairing our predictive procurement agent ([`BABYLON-INVENTORY-AGENT`](https://github.com/DOMINUSBABEL/BABYLON-INVENTORY-AGENT)) with WeChat automation and direct factory sourcing to power Latin American enterprise e-commerce and hardware integration.
+
+### 7. 💎 The Impeccable Taste Design Framework (`subgeist_fenomenologia.md`)
+* **The Standard:** Eliminating generic, uninspired SaaS boilerplate in favor of an elite cyberpunk-executive aesthetic:
+  * **Typography (`typeset`):** Precision pairings of Google Fonts (*Outfit*, *Plus Jakarta Sans*, and *Inter*).
+  * **Surfaces (`colorize`):** Dark mode frosted glassmorphism (`backdrop-filter: blur(16px)` with tinted deep slates).
+  * **Dynamics (`animate & delight`):** Tactile cubic-bezier elevations and responsive vector feedback.
+  * **Purity (`critique & distill`):** Eradication of nested card anti-patterns and generic gradient cliches.
 
 ---
 
