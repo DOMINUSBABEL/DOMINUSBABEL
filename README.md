@@ -1,20 +1,22 @@
 <div align="center">
 
+  <!-- Founder Identity & Avatar -->
   <a href="https://babylonias.com/">
-    <img src="./assets/avatar.jpg" alt="Juan Esteban Gómez Bernal (DominusΒαβέλ)" width="150" height="150" style="border-radius: 50%; border: 3px solid #8b5cf6; box-shadow: 0 0 35px rgba(139, 92, 246, 0.65);" />
+    <img src="./assets/avatar.jpg" alt="Juan Esteban Gómez Bernal (DominusΒαβέλ)" width="155" height="155" style="border-radius: 50%; border: 3.5px solid #8b5cf6; box-shadow: 0 0 35px rgba(139, 92, 246, 0.7);" />
   </a>
 
   <br /><br />
 
-  <img src="./assets/hero-banner.svg" alt="DOMINUSBABEL | BABYLON.IA Banner" width="100%" />
+  <!-- Hero Banner with NO FURTHER LIMITS BEYOND IMAGINATION -->
+  <img src="./assets/hero-banner.svg" alt="DOMINUSBABEL | BABYLON.IA Startup Banner" width="100%" />
 
   <br />
 
-  <!-- Multilingual Fast Switcher -->
+  <!-- Multilingual Language Selector -->
   <p align="center">
     <strong>🌐 SELECT LANGUAGE / SELECCIONAR IDIOMA / CHOISIR LA LANGUE / SPRACHE WÄHLEN / ВЫБЕРИТЕ ЯЗЫК / اختر اللغة / 选择语言:</strong><br />
-    <a href="#-english-enterprise-overview">🇬🇧 English</a> •
     <a href="#-español-portal-corporativo">🇪🇸 Español</a> •
+    <a href="#-english-enterprise-overview">🇬🇧 English</a> •
     <a href="#-français-portail-dentreprise">🇫🇷 Français</a> •
     <a href="#-deutsch-unternehmensportal">🇩🇪 Deutsch</a> •
     <a href="#-русский-корпоративный-портал">🇷🇺 Русский</a> •
@@ -24,6 +26,7 @@
 
   <br />
 
+  <!-- Interactive Badges Grid -->
   [![Official Portal](https://img.shields.io/badge/🌐_Official_Portal-babylonias.com-7c3aed?style=for-the-badge&logoColor=white)](https://babylonias.com/)
   [![X (Twitter)](https://img.shields.io/badge/𝕏_Twitter-@NeoDominusBabel-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NeoDominusBabel)
   [![GitHub Repos](https://img.shields.io/badge/📂_Ecosystem_Repos-66+-3b82f6?style=for-the-badge&logo=github)](https://github.com/DOMINUSBABEL?tab=repositories)
@@ -39,9 +42,10 @@
 
   <p align="center">
     <a href="#-core-enterprise-mission--value-proposition">Enterprise Mission</a> •
+    <a href="#-startup-creed--manifesto">Startup Creed</a> •
     <a href="#-how-agy--gemini-cli-engineered-babylonia">AGY &amp; Gemini CLI Catalyst</a> •
     <a href="#-the-one-year-engineering-chronicle-late-2025--august-2026">1-Year Chronicle</a> •
-    <a href="#-repository-genealogy--ecosystem-impact-matrix">Repository Impact Matrix</a> •
+    <a href="#-repository-genealogy--ecosystem-impact-matrix">Repository Genealogy</a> •
     <a href="#-geist-dialectical-architecture">Geist Architecture</a> •
     <a href="#-mastered-technology-stack">Tech Stack</a> •
     <a href="#-enterprise-engagement--contact-gateway">Contact &amp; Retainers</a>
@@ -54,7 +58,24 @@
 > *"Die Schönheit, die kraftlos ist, hasst den Verstand."*  
 > — **G.W.F. Hegel**, *Phänomenologie des Geistes*  
 >  
-> *"BABYLON.IA is not merely a software firm or a collection of scripts; it is the material synthesis of dialectical self-improvement, deployed across multi-agent environments constrained by Asimovian equilibrium and executed with absolute mathematical and legal rigor."*
+> *"BABYLON.IA is not merely a software firm or a collection of scripts; it is the code materialization of dialectical self-improvement, deployed across multi-agent environments constrained by Asimovian equilibrium and executed with absolute mathematical and legal rigor."*
+
+---
+
+## 🏛️ Startup Creed & Manifesto
+
+<div align="center">
+  <img src="./assets/startup-manifesto-banner.svg" alt="NO FURTHER LIMITS BEYOND IMAGINATION" width="100%" />
+</div>
+
+<br />
+
+At **BABYLON.IA**, we do not build software to replicate existing templates or produce incremental utilities. We build to push the boundaries of computational reality:
+
+* **Dialectical Superation:** Software is a living process. Every obstacle is synthesized into permanent meta-heuristics.
+* **The Fusion of Law & Computation:** Rigorous statutory logic (*Derecho UdeA & EAFIT*) fused with autonomous artificial intelligence to create unshakeable forensic and compliance systems.
+* **Transcontinental Sovereignty:** A unified bridge between advanced cognitive software in Latin America and international hardware/software sourcing in **Beijing, China**.
+* **Zero Operational Friction:** Autonomous swarms executing quantitative finance, digital forensics, community scaling, and enterprise ERP 24 hours a day with zero human latency.
 
 ---
 
