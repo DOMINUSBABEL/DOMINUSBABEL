@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="timeBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0b14" />
+      <stop offset="50%" stop-color="#121024" />
+      <stop offset="100%" stop-color="#06060c" />
+    </linearGradient>
+
+    <linearGradient id="timeLineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="33%" stop-color="#8b5cf6" />
+      <stop offset="66%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+
+    <linearGradient id="timeCardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.85"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .thdr { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; }
+    .tmono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    .ttag { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 11px; letter-spacing: 1.5px; }
+  </style>
+
+  <!-- Background -->
+  <rect width="1200" height="360" rx="16" fill="url(#timeBg)" stroke="#312e81" stroke-width="1.5" />
+
+  <!-- Header -->
+  <g transform="translate(50, 40)">
+    <text class="ttag" fill="#a78bfa" x="0" y="0">SYSTEM ROADMAP &amp; HISTORICAL PROGRESSION</text>
+    <text class="thdr" fill="#ffffff" x="0" y="28" font-size="22">ONE YEAR OF HIGH-VELOCITY ENGINEERING (2025–2026)</text>
+  </g>
+
+  <!-- Central Progression Line -->
+  <rect x="50" y="105" width="1100" height="4" rx="2" fill="url(#timeLineGrad)" />
+
+  <!-- Phase 1: Q4 2025 -->
+  <g transform="translate(50, 125)">
+    <circle cx="15" cy="-20" r="8" fill="#ec4899" stroke="#ffffff" stroke-width="2"/>
+    <rect width="260" height="185" rx="10" fill="url(#timeCardGrad)" stroke="#ec4899" stroke-width="1" />
+    <text class="ttag" fill="#f472b6" x="14" y="24">PHASE I • Q4 2025</text>
+    <text class="tmono" fill="#ffffff" x="14" y="48" font-size="14" font-weight="700">OSINT &amp; Civic Intel</text>
+    <text class="tmono" fill="#94a3b8" x="14" y="70" font-size="11">• Tayllerand AI Suite</text>
+    <text class="tmono" fill="#94a3b8" x="14" y="88" font-size="11">• MEDPOT Urban Reform</text>
+    <text class="tmono" fill="#94a3b8" x="14" y="106" font-size="11">• COLINT Live Monitor</text>
+    <text class="tmono" fill="#94a3b8" x="14" y="124" font-size="11">• Imperium Aeterna 4X</text>
+    <text class="tmono" fill="#f472b6" x="14" y="152" font-size="10" font-weight="600">Foundation of Analytics</text>
+  </g>
+
+  <!-- Phase 2: Q1 2026 -->
+  <g transform="translate(330, 125)">
+    <circle cx="15" cy="-20" r="8" fill="#8b5cf6" stroke="#ffffff" stroke-width="2"/>
+    <rect width="260" height="185" rx="10" fill="url(#timeCardGrad)" stroke="#8b5cf6" stroke-width="1" />
+    <text class="ttag" fill="#c084fc" x="14" y="24">PHASE II • Q1 2026</text>
+    <text class="tmono" fill="#ffffff" x="14" y="48" font-size="14" font-weight="700">Forensics &amp; LegalTech</text>
+    <text class="tmono" fill="#94a3b8" x="14" y="70" font-size="11">• ACTAGEN (Ruth Standard)</text>
+    <text class="tmono" fill="#94a3b8" x="14" y="88" font-size="11">• VOTOFLOW &amp; VOTOVISIÓN</text>
+    <text class="tmono" fill="#94a3b8" x="14" y="106" font-size="11">• Pinchtab Stealth Bridge</text>
+    <text class="tmono" fill="#94a3b8" x="14" y="124" font-size="11">• Jungian Tarot Mobile</text>
+    <text class="tmono" fill="#c084fc" x="14" y="152" font-size="10" font-weight="600">Institutional Governance</text>
+  </g>
+
+  <!-- Phase 3: Q2 2026 -->
+  <g transform="translate(610, 125)">
+    <circle cx="15" cy="-20" r="8" fill="#3b82f6" stroke="#ffffff" stroke-width="2"/>
+    <rect width="260" height="185" rx="10" fill="url(#timeCardGrad)" stroke="#3b82f6" stroke-width="1" />
+    <text class="ttag" fill="#60a5fa" x="14" y="24">PHASE III • Q2 2026</text>
+    <text class="tmono" fill="#ffffff" x="14" y="48" font-size="14" font-weight="700">Geist &amp; Native Mobile</text>
+    <text class="tmono" fill="#94a3b8" x="14" y="70" font-size="11">• Geist Dialectic Kernel</text>
+    <text class="tmono" fill="#94a3b8" x="14" y="88" font-size="11">• DressYourself AI Closet</text>
+    <text class="tmono" fill="#94a3b8" x="14" y="106" font-size="11">• Dots Strategy Engines</text>
+    <text class="tmono" fill="#94a3b8" x="14" y="124" font-size="11">• Swarmy Swarm Framework</text>
+    <text class="tmono" fill="#60a5fa" x="14" y="152" font-size="10" font-weight="600">Cognitive Self-Improvement</text>
+  </g>
+
+  <!-- Phase 4: Q3 2026 (Now) -->
+  <g transform="translate(890, 125)">
+    <circle cx="15" cy="-20" r="8" fill="#10b981" stroke="#ffffff" stroke-width="2"/>
+    <rect width="260" height="185" rx="10" fill="url(#timeCardGrad)" stroke="#10b981" stroke-width="1.5" />
+    <text class="ttag" fill="#34d399" x="14" y="24">PHASE IV • Q3 2026 (ACTIVE)</text>
+    <text class="tmono" fill="#ffffff" x="14" y="48" font-size="14" font-weight="700">Fleets &amp; Global Sourcing</text>
+    <text class="tmono" fill="#94a3b8" x="14" y="70" font-size="11">• Auditor.IA (E14 Multimodal)</text>
+    <text class="tmono" fill="#94a3b8" x="14" y="88" font-size="11">• Autonomous Swarm Fleet</text>
+    <text class="tmono" fill="#94a3b8" x="14" y="106" font-size="11">• Aether &amp; Truek &amp; Kinesio</text>
+    <text class="tmono" fill="#94a3b8" x="14" y="124" font-size="11">• Beijing Hub &amp; babylonias</text>
+    <text class="tmono" fill="#34d399" x="14" y="152" font-size="10" font-weight="700">Global Enterprise Impact</text>
+  </g>
+</svg>
