@@ -2,13 +2,13 @@
 
   <!-- Founder Identity & Avatar -->
   <a href="https://babylonias.com/">
-    <img src="./assets/avatar.jpg" alt="Juan Esteban Gómez Bernal (DominusΒαβέλ)" width="155" height="155" style="border-radius: 50%; border: 3.5px solid #8b5cf6; box-shadow: 0 0 35px rgba(139, 92, 246, 0.7);" />
+    <img src="https://raw.githubusercontent.com/DOMINUSBABEL/DOMINUSBABEL/main/assets/avatar.jpg" alt="Juan Esteban Gómez Bernal (DominusΒαβέλ)" width="155" height="155" style="border-radius: 50%; border: 3.5px solid #8b5cf6; box-shadow: 0 0 35px rgba(139, 92, 246, 0.7);" />
   </a>
 
   <br /><br />
 
   <!-- Hero Banner with NO FURTHER LIMITS BEYOND IMAGINATION -->
-  <img src="./assets/hero-banner.svg" alt="DOMINUSBABEL | BABYLON.IA Startup Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/DOMINUSBABEL/DOMINUSBABEL/main/assets/hero-banner.svg" alt="DOMINUSBABEL | BABYLON.IA Startup Banner" width="100%" />
 
   <br />
 
@@ -65,7 +65,7 @@
 ## 🏛️ Startup Creed & Manifesto
 
 <div align="center">
-  <img src="./assets/startup-manifesto-banner.svg" alt="NO FURTHER LIMITS BEYOND IMAGINATION" width="100%" />
+  <img src="https://raw.githubusercontent.com/DOMINUSBABEL/DOMINUSBABEL/main/assets/startup-manifesto-banner.svg" alt="NO FURTHER LIMITS BEYOND IMAGINATION" width="100%" />
 </div>
 
 <br />
@@ -149,7 +149,7 @@ At **BABYLON.IA**, we do not build software to replicate existing templates or p
 ## 🏛️ Core Enterprise Mission & Value Proposition
 
 <div align="center">
-  <img src="./assets/client-portal-banner.svg" alt="Enterprise Client Gateway" width="100%" />
+  <img src="https://raw.githubusercontent.com/DOMINUSBABEL/DOMINUSBABEL/main/assets/client-portal-banner.svg" alt="Enterprise Client Gateway" width="100%" />
 </div>
 
 <br />
@@ -175,7 +175,7 @@ At **BABYLON.IA**, we do not build software to replicate existing templates or p
 ## 🔬 Startup Showcase: Architectural Milestones (AGY & Gemini CLI Chronicles)
 
 <div align="center">
-  <img src="./assets/startup-showcase-banner.svg" alt="Startup Labs & Foundational Milestones" width="100%" />
+  <img src="https://raw.githubusercontent.com/DOMINUSBABEL/DOMINUSBABEL/main/assets/startup-showcase-banner.svg" alt="Startup Labs & Foundational Milestones" width="100%" />
 </div>
 
 <br />
@@ -234,7 +234,7 @@ The journey of **BABYLON.IA** represents a radical departure from traditional so
 ## 📈 The One-Year Engineering Chronicle (Late 2025 – August 2026): Comprehensive DevLog
 
 <div align="center">
-  <img src="./assets/chronicle-timeline.svg" alt="One Year Progression Timeline" width="100%" />
+  <img src="https://raw.githubusercontent.com/DOMINUSBABEL/DOMINUSBABEL/main/assets/chronicle-timeline.svg" alt="One Year Progression Timeline" width="100%" />
 </div>
 
 <br />
@@ -428,7 +428,7 @@ Every repository in the `@DOMINUSBABEL` GitHub workspace serves as an integral p
 ## 📐 Geist Dialectical Architecture
 
 <div align="center">
-  <img src="./assets/architecture-diagram.svg" alt="Geist Architecture Diagram" width="100%" />
+  <img src="https://raw.githubusercontent.com/DOMINUSBABEL/DOMINUSBABEL/main/assets/architecture-diagram.svg" alt="Geist Architecture Diagram" width="100%" />
 </div>
 
 <br />
